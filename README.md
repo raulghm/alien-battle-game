@@ -1,6 +1,9 @@
 # Alien Battle
 
-> Alien Battle es un micro juego de rol por turnos muy sencillo y fácil de aprender
+> Alien battle es un micro juego de cartas muy sencillo, donde debes
+> eliminar a otros jugadores por medio de distintas rondas.
+
+<img src="example.jpg" width="400" />
 
 ## Características
 
